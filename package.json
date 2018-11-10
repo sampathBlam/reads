@@ -17,10 +17,7 @@
     "swagger-express-mw": "^0.7.0",
     "swagger-node-codegen": "^1.4.0"
   },
-  "devDependencies": {
-    "should": "^7.1.0",
-    "supertest": "^1.0.0"
-  },
+  "devDependencies": {},
   "scripts": {
     "start": "node app.js",
     "test": "swagger project test"
